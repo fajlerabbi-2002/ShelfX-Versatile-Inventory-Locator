@@ -1,0 +1,43 @@
+Introduction to Computer Science|J. Glenn Brookshear|CSE|1|18|1|3|123|18/04/2025|02/05/2025|1
+Programming Fundamentals|Paul Deitel and Harvey Deitel|CSE|1|20|1|3||||0
+Discrete Mathematics|Kenneth H. Rosen|CSE|1|20|1|4||||0
+Calculus and Analytical Geometry|James Stewart|CSE|1|20|1|5||||0
+Physics for Engineers|Raymond A. Serway and John W. CSE|CSE|1|20|1|6||||0
+Object-Oriented Programming|Herbert Schildt|CSE|2|20|2|1||||0
+Data Structures|Mark Allen Weiss|CSE|2|20|2|5||||0
+Linear Algebra|David C. Lay|CSE|2|2|2|7||||0
+Digital Logic Design|M. Morris Mano and Michael D. CSE|CSE|2|5|2|8||||0
+Probability and Statistics|Ronald E. Walpole et al|CSE|2|5|2|9||||0
+Algorithms|Thomas H. Cormen|CSE|3|4|3|1|1234567|23/05/2025|25/05/2025|1
+Computer Organization and Architecture|David A. Patterson and John L.CSE|CSE|3|5|3|10||||0
+Database Systems|Abraham Silberschatz|CSE|3|5|3|11||||0
+Operating Systems|Abraham Silberschatz|CSE|3|5|3|12||||0
+Numerical Methods|Steven C. Chapra and Raymond PCSE|CSE|3|5|3|13||||0
+Software Engineering|Roger S. Pressman|CSE|3|5|3|14||||0
+Computer Networks|James F. Kurose and Keith W. RCSE|CSE|4|5|4|1||||0
+Theory of Computation|Michael Sipser|CSE|4|5|4|10||||0
+Microprocessors and Assembly Language|Microprocessors and Assembly LCSE|CSE|4|5|4|9||||0
+Artificial Intelligence|Stuart Russell and Peter NorviCSE|CSE|4|5|4|9||||0
+Compiler Design|Alfred V. Aho|CSE|5|5|5|1||||0
+Web Technologies|Jeffrey C. Jackson|CSE|5|5|5|2||||0
+Computer Graphics|Donald Hearn and M. Pauline BaCSE|CSE|5|5|5|3||||0
+Human-Computer Interaction|lan Dix|CSE|5|5|5|4||||0
+Distributed Systems|George Coulouris|CSE|6|5|6|1||||0
+Information Security|William Stallings and Lawrie BCSE|CSE|6|5|6|2||||0
+Data Mining|Jiawei Han|CSE|6|5|6|3||||0
+Machine Learning|Christopher M. Bishop|CSE|6|5|6|5||||0
+Mobile Application Development|Bill Phillips|CSE|7|5|7|1||||0
+Cloud Computing|homas Erl|CSE|7|5|7|2||||0
+Big Data Analytics|Nathan Marz and James Warren|CSE|7|5|7|3||||0
+Entrepreneurship in IT|Eric Ries|CSE|8|5|8|1||||0
+Professional Ethics in Computing|Michael J. Quinn|CSE|8|5|8|2||||0
+Engineering Mathematics|B. S. Grewal|EEE|1|5|1|1||||0
+Basic Electrical Engineering|C. L. Wadhwa|EEE|1|5|1|2||||0
+Engineering Mechanics|Ervin H. Sharma|EEE|1|5|1|3||||0
+Computer Programming|Yashavant Kanetkar|EEE|1|5|1|4||||0
+Numerical Methods|Balagurusamy|EEE|2|5|2|1||||0
+Circuit Theory|William H. Hayt Jr|EEE|2|5|2|2||||0
+Electronic Devices and Circuits|Robert L. Boylestad and Louis EEE|EEE|2|5|2|3||||0
+1234|1|2|3|1|3|1||||0
+qwe|ewq|BBA|1|1|1|1||||0
+qwe|ewq|BBA|1|1|1|1||||0

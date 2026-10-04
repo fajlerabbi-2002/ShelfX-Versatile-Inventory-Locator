@@ -1,0 +1,1 @@
+MedicineName|Company|Category|Stock|ExpiryDate|ShelfRow|ShelfCol|Price(BDT)
